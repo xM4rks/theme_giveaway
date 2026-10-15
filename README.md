@@ -37,7 +37,7 @@ El programa utiliza **Python 3** y el módulo `random`, que permite realizar sel
 
 3. Ejecuta el programa:
 
-       python main.py
+       python3 main.py
 
 
 ## Funcionamiento
